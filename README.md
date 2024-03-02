@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritika</h1>
-<h3 align="center"> a Master's in Computing Science Student at the University of Alberta</h3>
+<h3 align="center"> Passionate about AI & ML | Turning Ideas into Reality</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdpeTZ0cGt2bmdlNjMzZjloZnY1ZTRxNDYydWUxbGt1YWh4a2p2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 - 🌱 I’m currently learning **LLM's and Prompt Engineering**
